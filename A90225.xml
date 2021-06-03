@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alarum to the House of Lords: against their insolent usurpation of the common liberties, and rights of this nation. Manifested by them, in their present tyrannicall attempts against that worthy commoner, Lieutenant Col. John Lilburne, defendour of the faith, and of his countries freedoms, both by his words, deeds and suffereings, against all tyrants in the kingdome; whether black-coats, papists, kings, lords, &amp;c.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90225</idno><idno type="EEBO-CITATION">99861597</idno>
+  <idno type="VID">113735</idno>
+  <idno type="EEBO-PROQUEST">2240950538</idno>
+  
+            <idno type="STC">Wing O618</idno>
+            <idno type="STC">Thomason E346_8</idno>
+            <idno type="STC">ESTC R201003</idno>
+            <idno type="PROQUEST">99861597</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861597e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90225)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113735)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E346[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alarum to the House of Lords: against their insolent usurpation of the common liberties, and rights of this nation. Manifested by them, in their present tyrannicall attempts against that worthy commoner, Lieutenant Col. John Lilburne, defendour of the faith, and of his countries freedoms, both by his words, deeds and suffereings, against all tyrants in the kingdome; whether black-coats, papists, kings, lords, &amp;c.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Overton by Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "London July 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term type="topical_term">Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term type="topical_term">Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113735:1"/>
+            <pb facs="tcp:113735:1"/>
+            <p>AN ALARVM <hi>To the House of</hi> LORDS: Against their insolent Usurpation of the COMMON LIBERTIES, AND <hi>Rights of this Nation.</hi>
+            </p>
+            <p>Manifested by them, in their present Tyrannicall Attempts against that Worthy COMMONER, Lieutenant Col. JOHN LILBURNE, <hi>Defendour of the Faith,</hi> And of his <hi>Countries Freedoms,</hi> both by his Words, Deeds and Sufferings, against all Tyrants in the Kingdome; Whether <hi>Black-coats, Papists, Kings, Lords, &amp;c.</hi>
+            </p>
+            <p>Printed in the Yeer. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:113735:2"/>
+            <pb n="3" facs="tcp:113735:2"/>
+            <head>
+               <hi>AN ALARUM</hi> To the House of <hi>LORDS:</hi> Against their Insolent Ʋsurpation of the Common Liberties and Rights of this Nation.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the first place Wee demand a Reason of you, to know; Why you (which are such arrogaters of Ti<g ref="char:EOLhyphen"/>tles of Honour, should of all others,) slight Him so farre, as to stile him onely <hi>John Lilburne,</hi> and neither Mr. <hi>John Lilburne,</hi> though you know him to be a true borne Gentleman, Nor <hi>Lieutenant Collonell,</hi> though you know him to be a Valiant and Faithfull Souldier for his Countreys <hi>Liberties.</hi>
+            </p>
+            <p>Wee cannot suppose you doe it because you know him to be a true and Reall Christian: with whom the vanity of Titles and Honours, are not regarded: No certainly, Wee have no such Pious thoughts of you, Wee suppose you esteeme those markes of the <hi>Gentiles</hi> too much, to do it out of that true respect; We may be bold to stile them Markes of <hi>Gentiles,</hi> Wee have our Saviours own Warrant for it, who saith, <hi>The Kings of the Gentiles exercise</hi> Lord<g ref="char:EOLhyphen"/>ship <hi>over them, &amp;c. But it shall not be so among you: Whosoever will be chief among you,</hi> (Christians,) <hi>let him be your servant:</hi> Gracious LORDS, or <hi>Favourable</hi> LORDS, titles that could not be propper amongst <hi>Christians;</hi> with whom there was no Ruler, nor Government, but by <hi>common Election</hi> and consent, agreeable to <hi>Our</hi> House of <hi>Commons;</hi> every Ruler had his Rule; Which he was
+<pb n="4" facs="tcp:113735:3"/> to observe out of duty: and could not be <hi>gracious or favourable,</hi> which necessarily implyes <hi>a Power assumed above the Rule,</hi> and de<g ref="char:EOLhyphen"/>nominates those that exercise <hi>such a Power, to be Lords in an over<g ref="char:EOLhyphen"/>ruling sense,</hi> a thing which stands neither with Justice nor Chri<g ref="char:EOLhyphen"/>stianity.</p>
+            <p>But if <hi>Titles</hi> were of any value, or <hi>Honour</hi> of any esteeme, hee deserveth the Title of <hi>Lieutenant Collonell,</hi> and the honor he hath gotten in the field in defence of his Countreys <hi>Liberties,</hi> as well as any of you, your Titles or Honours, if not better and more Worthily; for by what meanes some of you came by yours, is very uncertaine, but this is certaine, that most of you gained no part of it your selves: and the common wayes your Auncesters gain<g ref="char:EOLhyphen"/>ed it for you, was generally by adhering to Kings, in subduing and oppressing the <hi>Commons,</hi> or by pleasing their Lusts, Mallice, Re<g ref="char:EOLhyphen"/>venge, or Covetousnesse; for so Histories manifest, and those that have been made Lords in our times, have been advanced by the same occasions;</p>
+            <p>As for Example, What was Sir <hi>Lionell Cranfield</hi> advanced for, but for betraying the secrets of the City, and devising wayes to sharke the People; being now Earle of <hi>Middlesex?</hi> What was <hi>Co<g ref="char:EOLhyphen"/>ventry</hi> advanced for, but for his great abillities in deceivings, and various wayes to oppresse the People, heaping up Masses of wealth by extremity of <hi>Bribery, Extortion,</hi> (and <hi>Cruelty,</hi> which Mr. <hi>Norton</hi> and <hi>Wiseman</hi> full dearly felt:) for which Vertues, his sonne, and sonnes sonne forsooth, must be Lords for ever? How came <hi>Moun<g ref="char:EOLhyphen"/>tague</hi> to be Lord <hi>Privie-Seale,</hi> and Earle of <hi>Manchester,</hi> but by the most palpable corruption that ever was; and his Sonne must now remaine an Earle, and <hi>Speaker</hi> in the House of <hi>Peeres;</hi> Wee need not enlarge; for your selves know very well how, and by what meanes you came to be Lords; and for what ends; and cannot de<g ref="char:EOLhyphen"/>nie, if honour were the Reward of true vertue; but that <hi>Lilburne</hi> deserveth more, then what you would, or can take from him.</p>
+            <p>And therefore, in the Charge you bring against him, (if yet you will persist,) afford him his Title, or lay downe your owne Tytles; use him not alltogether like a slave, though you have made <hi>New-gate</hi> his habitation, and from thence have removed him to the <hi>Tower</hi> of <hi>London;</hi> Whether to murder him privately from the Peoples Knowledge, We cannot tell; but We judge lit<g ref="char:EOLhyphen"/>tle lesse.</p>
+            <pb n="5" facs="tcp:113735:3"/>
+            <p>Times may alter, and when you have done your uttermost, hee will be proved, both by his Life and Death, an honest and faithfull man to his long enslaved Country; for freeing whereof, hee hath suffered and done more then all your Lordships.</p>
+            <p>You have but ill Counsell, and abuse your selves grosly, in u<g ref="char:EOLhyphen"/>sing him in this Tyrannous manner; What gaine you by sending him from one prison to another, but a worse Name and Repute then the <hi>Star-chamber,</hi> that sent him but to the <hi>Fleet;</hi> you plainly shew, you intend to take away his Life, which that Tyrannous Court never pretended; and for his Close Imprisonment, and to keep him from pen Inke and Paper; from the comfort of his Friends; yea from the very sight of him at his Prison-window, or of their administring any refreshment of food or the like un<g ref="char:EOLhyphen"/>to him, though earnestly desired, and endeavoured by divers of his and the Kingdomes friends, even since his comming into the <hi>Tower;</hi> and now forsooth his friends may speak with him, but it must be in the presence of his Keeper, but not with any sense of his, and our Nationall <hi>Rights</hi> and <hi>Freedoms,</hi> but rather as a Gin or a Trap to catch some of his, and the Nations best friends into your <hi>Prerogative Clutches;</hi> for none must be permitted to see him, but must first give in his Name, and the place of his habitation; a pratty devise, could your Lordships but catch <hi>old Birds with chaffe!</hi>
+            </p>
+            <p>But by this We may discerne your most insufferable encroach<g ref="char:EOLhyphen"/>ments upon our <hi>Common Rights,</hi> daily increasing upon us; which in time, if not prevented, will wholly enslave and Vassallage us all; for it is come to this already;</p>
+            <p>
+               <hi>That the</hi> FREEE-MEN <hi>of</hi> ENGLAND <hi>cannot goe to see their fellow</hi> COMMONER, <hi>without hazzard of their</hi> Free<g ref="char:EOLhyphen"/>doms.</p>
+            <p>An act so unreasonable, and destructive to us, that Wee can<g ref="char:EOLhyphen"/>not but take notice of it; and let you know, That Wee cannot, neither will WEE suffer such intollerable Affronts at your hands.</p>
+            <pb n="6" facs="tcp:113735:4"/>
+            <p>If timely Cautions will not availe with you, you must expect to be bridled, for Wee are resolu'd upon our Naturall <hi>Rights</hi> and <hi>Freedoms,</hi> and to be enslaved to none, how Magnificent soever, with Rotten Titles of Honour. For doe you imagine there is none abroad of his minde, who though hee were dead and de<g ref="char:EOLhyphen"/>stroyed by you, would prosecute those Workes and Discoveries of the <hi>Peoples Rights,</hi> which he hath begun; Yes, more then you are aware of, that can, nay, &amp; are resolv'd to paint forth your <hi>In<g ref="char:EOLhyphen"/>terest</hi> to the Life, if you will not content your selves the sooner with whats your own; and leave the <hi>Commonners</hi> to the <hi>Commons.</hi>
+            </p>
+            <p>But let Us see, what you have against this Worthy Chri<g ref="char:EOLhyphen"/>stian.</p>
+            <p n="1">1. <hi>For his high contempt against your House: In Protesting, that</hi> (hee being a Commoner,) <hi>you had no jurisdiction over him:</hi> and this is so evidently just, and agreeable to <hi>Magna Charta,</hi> (that little Remainder of Light,) that all sorts of juditious men agree with him herein: and the Opinion of all the Judges will be as soone credited for the <hi>legallity of Ship-money,</hi> as for <hi>The Lords ju<g ref="char:EOLhyphen"/>risdiction over the Commons:</hi>
+            </p>
+            <p>
+               <hi>And for refusing to kneel at your Barre,</hi> as his Reason would not permit him in so submisse a way to own the Authority he had dis<g ref="char:EOLhyphen"/>claimed, so his Conscience ought to be satisfyed out of Scripture, of the Lawfulnesse of such Ceremonies.</p>
+            <p n="2">2. <hi>For two scandulous, seditious, and most dangerous Pamphlets, tending to raise Sedition in this Realme: and to subvert the funda<g ref="char:EOLhyphen"/>mentall Lawes and Government of this Kingdome.</hi>
+            </p>
+            <p>A most high Charge, and pretended to be proved out of two Pamphlets, one whereof is intituled, <hi>The Just mans Justification:</hi> and this Tueatise affords, (for a great part of it,) onely a Relati<g ref="char:EOLhyphen"/>on of Colonell <hi>Kings</hi> abuse of his trust, and that a Charge depen<g ref="char:EOLhyphen"/>ded against him for the same, unto which Mr. <hi>Lilburne</hi> was a materiall Witnesse: by Occasion whereof <hi>King</hi> Arrests, and sues him upon pretence of being called <hi>Traytor</hi> by him: this suit occa<g ref="char:EOLhyphen"/>sions Mr. <hi>Lilburne,</hi> to looke into the Proceedings of the Law: findes it full of tricks and quillets, snares, formes and puntillians, Irrationall, and tending to his Ruine, and the perpetuall vexati<g ref="char:EOLhyphen"/>on of the People: and for safe-guard of himself, Petitions the Ho<g ref="char:EOLhyphen"/>nourable House of <hi>Commons:</hi> that the Charge, and Articles a<g ref="char:EOLhyphen"/>gainst
+<pb n="7" facs="tcp:113735:4"/>
+               <hi>King,</hi> might be tryed by a <hi>Counsell of Warre,</hi> before <hi>King</hi> should be permitted to proceed against him, as being confident, <hi>King</hi> would be proved a Traytor thereby: This Petition hee could never get delivered, or read in the House: then, to save himself, hee writes this Discourse to Judge <hi>Reeves;</hi> and therein laies open the unreasonablenesse of the <hi>Lawes,</hi> and Proceedings in <hi>Law,</hi> now in force in this Nation: And in true Love and Zeal to his abused Country; falls afterwards upon the extreame want of publick Justice, complaines of partiallity, and <hi>respect of Persons,</hi> shewes it to be against the minde and will of God, in whose sight there is no difference at all; but hee <hi>that sheddeth, (or causeth to be shed,) mans blood, by man shall his blood be shed,</hi> wherein hee useth a comparison, which to squeamish stomacks is somewhat offensive, but true enough; for God judgeth <hi>not as man judgeth:</hi> the poor Tradesman, and the Rich; the Noble and Ignoble, are all one in his sight: that soule that sinneth, it shall die.</p>
+            <p>But such Comparrisons (it is to be feared,) are more odious to you, then Injustice, Tteachery, Cruelty, or Tyranny: else you would have been as forward to have called Persons of all qualli<g ref="char:EOLhyphen"/>ties to justice, (without sparing the highest) as you have been to send him to <hi>New-gate:</hi> But this your corrupt dealing makes most men beleeve, That your safety and Interest is in preserving the guilty, and in condemning the just and Innocent:</p>
+            <p>Is it <hi>scandalous</hi> to set forth the Justice of the Lord of heaven? by making true Comparisons with <hi>Lords on earth;</hi> certainly, true Christian Doctrine is not for these Lordly times.</p>
+            <p>Is it <hi>seditious,</hi> for a <hi>Free-man</hi> unjustly imprisoned, to publish the same to all the World? It was not so judged in the beginning of this Parliament; but then was <hi>the beginning of Freedome,</hi> and it seemes, <hi>Wee are at the end thereof:</hi> and at the <hi>beginning of a new bondage:</hi> otherwise neither his first, <hi>nor his second discourse,</hi> entitu<g ref="char:EOLhyphen"/>led, <hi>The free-mans freedom Vindicated:</hi> could possibly be interpre<g ref="char:EOLhyphen"/>ted either scandalous, seditious or dangerous.</p>
+            <p>Indeed all his Writings have been dangerous to all corrupt In<g ref="char:EOLhyphen"/>terests in the <hi>Common-wealth;</hi> as First, <hi>to all Arbitrary Power,</hi> in King, or Lords, or any other.</p>
+            <p>Secondly, To the Power and delusion of the <hi>Clergy;</hi> and their oppression of Conscionable Religious People.</p>
+            <pb n="8" facs="tcp:113735:5"/>
+            <p>Thirdly, to the most prejudiciall wayes of Our <hi>Legall Trialls</hi> in all Courts, and to the burthensome Society of Lawyers: that live upon the impoverishing of the industrious and laborious People; things which he proveth to have been forced upon this nation by Conquest, and continued against Reason, and the weale of the People.</p>
+            <p>Fourthly, To all <hi>Monopolists,</hi> and engrossers of trade: as the <hi>Merchant Adventurers,</hi> and the like: all which he hath (as o<g ref="char:EOLhyphen"/>thers,) proved to the Ruine of the People: and because of this his love to Truth, Justice, and his Countrey; and his opening of these things; and his opposition thereof to the uttermost of his Power: all these mighty Parties, put all their pollicy and strength in one, utterly to destroy him.</p>
+            <p>But he hath got a good Cause; and all good People, (that de<g ref="char:EOLhyphen"/>sire not to live by the Oppression of others,) on his side; and that your Lordships will finde; for all these things will be laid open as the Sunne, and every man will see wherefore it is you call his Bookes <hi>scandalous, seditious, dangerous Pamphlets,</hi> and why the <hi>Clergy,</hi> the <hi>Judges, Lawyers,</hi> and <hi>Monopolists,</hi> are his deadly ad<g ref="char:EOLhyphen"/>versaries, even because he deales plainly betwixt you all; and the people, whom you labour by all means joyntly to keep in bon<g ref="char:EOLhyphen"/>dage; and Vassallage to your wills.</p>
+            <p>This is the Reason, why you say his Bookes tend to Rayse sediton in this Realme; this being <hi>Coventries</hi> and <hi>Canterburies</hi> old language, to any that discovered their oppressions and corrupti<g ref="char:EOLhyphen"/>ons: it tended to meere <hi>Anarchy,</hi> and (as you now say,) to sub<g ref="char:EOLhyphen"/>vert the fundamentall Lawes of this Kingdome.</p>
+            <p>Doth not every one see the unreasonablenesse of our Laws and Government? and doth the Parliament fit for Remedy of the Grievances of the People, and for their safety and weale in all things? and is it now <hi>seditious</hi> and <hi>dangerous</hi> for any man to pub<g ref="char:EOLhyphen"/>lish his minde concerning the same? tends it to the subverting of the <hi>Fundamentall Lawes</hi> and Government, for any to appeale to the House of <hi>Commons</hi> for altering of Lawes or Government evi<g ref="char:EOLhyphen"/>dently appearing prejudiciall to the safety and weale of the People, the end of all Lawes and <hi>Government?</hi> certainly they fit
+<pb n="9" facs="tcp:113735:5"/> not to confirm this Kingdomes long contract<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d bondage; and that wee trust your Lordships and all the rest will finde.</p>
+            <p>Doth Mr. <hi>Lilburne</hi> endeavour to bring in any <hi>Arbitrary o<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tyrannicall Power?</hi> Doth hee allow, or argue it to be lawfull for men to be put to Oathes <hi>Ex Officio,</hi> or to be examined upon <hi>In<g ref="char:EOLhyphen"/>terrogatories against themselves or others,</hi> against their wills in <hi>Crim<g ref="char:EOLhyphen"/>minall Causes?</hi> Doth hee justifie Imprisonment for refusall to Answer? Doth hee acknowledge your Lordships Authority over the <hi>Commons?</hi> If he doth any of these, or the like things, then in<g ref="char:EOLhyphen"/>deed hee is guilty of the Charge you lay against him: for this were indeed to subvert the very <hi>Fundamentall Government; which is Right Reason; and to destroy the end of Government; the safety and weale of the People;</hi> and therefore it will be good for your Lord<g ref="char:EOLhyphen"/>ships in this Charge, to reflect upon your selves; the People are now quick-sighted, and not easily deluded: If it were not so, Mr. <hi>Lilburne</hi> were in a sad Case, for here is no lesse then the whole <hi>House of Peers his Accusers,</hi> provoked and set against him by all the Judges, Lawyers, Clergy, and great men of the City, and the Case standing thus on his day of Tryall; What hope can hee have, when these, besides all those of the <hi>Presbyterian</hi> judgement are his resolved Adversaries, who in their Common <hi>Discourses</hi> o<g ref="char:EOLhyphen"/>penly condemne him, and wish him worse then hanged, and so do all <hi>Royalists:</hi> and doubtlesse those that shall be trusted with man<g ref="char:EOLhyphen"/>ageing the businesse, and such as know well how to forme a Jury for the purpose: Where then is hope? In God, in the Parlia<g ref="char:EOLhyphen"/>ment, in the People? God will provide, above hope: out of the thicket shall come a Ransome for this his beloved <hi>Isaac:</hi> The House of <hi>Commons</hi> have not their Trust and Power in vaine, but will use it in so urgent a necessity; If they now deferre, their Ac<g ref="char:EOLhyphen"/>count with God will be heavy; and deliverance will yet come; for God cannot suffer so abominable wickednesse: He can turne the hearts of a whole <hi>Presbyterian Jury,</hi> (if it should come to that,) in an Instant, and make them to see their owne <hi>Liberties</hi> burn<g ref="char:EOLhyphen"/>ing at the stake in him; That his Sufferings are but a <hi>Preface</hi> to their <hi>Tragedy,</hi> when your Lordships please, if they in any thing op<g ref="char:EOLhyphen"/>pose your Wills: but the House of <hi>Commons</hi> is wise, and God is just; and wee cannot feare the safety of this our Brother.</p>
+            <pb n="10" facs="tcp:113735:6"/>
+            <p>You will finde you are not yet LORDS over the Parliament, you have not the least Power to dispose of the Moneyes of the <hi>Common-wealth,</hi> much lesse to imprison mens Persons at your pleasure, every man sees with what prejudice to the Publike Affaires, the House of <hi>Commons</hi> have observed you? How often they have been enforced to tell you, <hi>That they must defend and preserve the People without your concurrence;</hi> every man sees how you daily obstruct and delay Proceedings, and by devises pervert the end of good Motions; how you adhere to any that would hold the People in bondage; How you abhorre all men that Un<g ref="char:EOLhyphen"/>derstand their <hi>Liberties,</hi> and that you hate this good man Mr. <hi>Lilburne,</hi> for nothing but his great judgement and affection to the <hi>Common-Wealth.</hi>
+            </p>
+            <p>Therefore whilst you may possesse your Honours, and great E<g ref="char:EOLhyphen"/>states quietly, without placeing your felicity in vexing meaner men, <hi>(all covet, all loose,)</hi> for the People cannot beare it; and you will doe your selves and Posterities great injury, if you beleeve they will; their divisions, in which you trust, will deceive you; they will unite, though not totally; yet sufficiently for preventi<g ref="char:EOLhyphen"/>on of so eminent bondage; be not transported with seeming af<g ref="char:EOLhyphen"/>fronts; hee truely honoureth you for your faire demeanour to<g ref="char:EOLhyphen"/>wards him in his Reparations; hee intended you no affront at all, you have been instigated too much by the Judges and Law<g ref="char:EOLhyphen"/>yers against him; your Honours nor Greatnesse need not be twisted with theirs; Further you the good and quiet of the Peo<g ref="char:EOLhyphen"/>ple, and abandon but that kinde of Power which hath ruined <hi>the Bishops,</hi> and as many as ever have used it,) and you will be belo<g ref="char:EOLhyphen"/>ved and honoured of all good men; for it is reall Goodnesse that is the best support of Greatnesse.</p>
+         </div>
+         <div type="postscript">
+            <pb n="11" facs="tcp:113735:6"/>
+            <head>POSTSCRIPT.</head>
+            <p>IF thou that readest, be impartiall and juditious, then mayst easily perceive by the scope of this little Treatise, but more especially by the late great <hi>Remonstrance,</hi> (not the <hi>Citie Remonstrance:</hi>) the <hi>Pearle in a Dunghill;</hi> and the <hi>Just man in bonds,</hi> since Lieutenant Collonell <hi>Lilburne</hi> was last committed; as well as his <hi>Justification</hi> and <hi>Vindication</hi> of <hi>Free-mens Liberties,</hi> immediately before; or <hi>Eng<g ref="char:EOLhyphen"/>lands Birth-right; Musgrave</hi> and <hi>Larners</hi> Bookes; in what a pittifull, lamentable and tottering condition this distressed and perplexed nation is,</p>
+            <p>And thereby be occasioned to set thy thoughts, meditations and af<g ref="char:EOLhyphen"/>fections at worke, chiefly by earnest Prayers to God, that hee would be pleased to open a doore of Mercy unto us, whereby wee may escape these deceivable snares, leading to worse then <hi>Egyptian slavery;</hi> wherein we, our poore Infants on their Mothers breasts, and others, who know not the right hand from the left; yea, and our whole Posterity, are most pit<g ref="char:EOLhyphen"/>tifully catched and involved, even as Gods owne particular People the <hi>Jewes</hi> were in the dayes of <hi>Haman,</hi> except there come such a happy and speedy Remedy, as it pleased him in mercy then to send, beyond the ex<g ref="char:EOLhyphen"/>pectation of man.</p>
+            <p>Our present Condition is so much the more lamentable uncomforta<g ref="char:EOLhyphen"/>ble and unsupportable, that Our own voluntary Contributions, both of our Lives and Estates, to free in from cruell Persecutions, Opressions and Taxations, have made most of us so poore, that wee are not able to helpe or relieve one another; so that Our present misery, and the hard<g ref="char:EOLhyphen"/>nesse of rich mens hearts for any common good Workes, so long as they themselves are spared, <hi>as an Ox, yet ordained for slaughter,</hi> are a most speciall meanes to make both them and us capable of slavery.</p>
+            <p>Which in our prosperous dayes, when <gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did bake <hi>Cakes to the Queen of Heaven</hi> Wee altogether mocked and scorned you, and still did put the evill day farre off; but as the wilde Asse, whilst shee is
+<pb n="12" facs="tcp:113735:7"/> light and speedy to run, mocketh at all the assaults of the hunters, who pursue for her life, yet when shee is heavy with young, and not so able to flie, shee is easily catched; so is this sinfull and idolatrous Nation, now in the midst of her sinnes and abominations, who because shee would not, nor will not heare the cryes of the Poore, the Widow, the Father<g ref="char:EOLhyphen"/>lesse, nor the Prisoners, shee shall cry, and not be heard.</p>
+            <p>Though formerly, when shee abounded as much in her Idolatrous and illegall feasts, as now shee doth in her hypocritticall and unlawfull F<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>asts, even in her pride, vain-glory, abused Peace, and fulness of bread, shee wax'd so wanton, and grew so secure, and frozen in her dregges of Popery, that shee s<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te downe to eate and drinke, and rose, up to play, even untill the LORD sent his Servant <hi>Nebuchadnezar,</hi> in her ripe<g ref="char:EOLhyphen"/>nesse, when all her regions were white unto the harvest, and thrust in the sickle of these his fearfull <hi>Judgements,</hi> to reape her, which yet are but begun, except shee repent; Only shee still reserveth a remnant, who mourne in secret, in all his Visitations; whom hee preserveth to serve both in and after his most fearfull judgements, which hee powereth forth upon others. <hi>Farewell.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113735:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
